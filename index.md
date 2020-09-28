@@ -6,7 +6,7 @@ hide_description: false
 description: "creating wholesome solutions until agi comes along"
 ---
 
-## Hi, I am Tami! 🎉
+## Hi, We are wholesome.garden! 🎉
 
 I created this personal website to keep track of my projects, talk about my experience as an Engineer, and give guidance to anyone striving for some knowledge within my expertise. While, just trying to tame the ocean of endless knowledge & to stand out in the crowd one day (Inshaallah).
 
