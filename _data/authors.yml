@@ -2,8 +2,8 @@
 # Must be the same as `author` in `_config.yml`.
 # Change `author1` to your shortname.
 author1:
-  name:              Shahzaib Khan
-  email:             shazaibahmed0000@gmail.com
+  name:              Tami Bar
+  email:             tami@akeyo.io
 
   # Used at the bottom of each page and at the top of the `about` layout
   # Markdown enabled, can use multiple paragraphs (enabled by `|`)
@@ -23,12 +23,12 @@ author1:
   # Comment/uncommet to show/hide
   # Rearrange to change the order in which they appear
   social:
-    github:          HypertextAssassin0273
-    facebook:        shazaib.ahmed.100
-    linkedin:        shazaibahmed0273
-    stackoverflow:   13753378/hypertextassassin0273
-    quora:           Shazaib-Ahmed-11
-    email:           shazaibahmed0000@gmail.com
+    github:          fire17
+    facebook:        fire17
+    linkedin:        tami.bar
+#    stackoverflow:   13753378/hypertextassassin0273
+#    quora:           Shazaib-Ahmed-11
+    email:           tami@akeyo.io
     # resume:          /assets/Resume.pdf
     # youtube:         N.i.l
     # twitter:         N.i.l

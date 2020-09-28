@@ -1,19 +1,19 @@
 basics:
-  name: "Shahzaib Khan"
+  name: "Tami Khan"
   label: "Undergraduate BS(CS) Student"
   picture: "/assets/icons/icon.png"
-  email: "shazaibahmed0000@gmail.com"
+  email: "tami@akeyo.io"
   phone: "+92-335-6678673"
   website: "https://hypertextassassin0273.github.io"
- 
+
   summary: >
     I'm an aspiring student who seeks to learn something new every day. Currently, undergraduate at NUCES FAST-Karachi in BS(CS). <br><br>
-    My interests include Cyber-Security, Artificial Intelligence, Internet of Things, Defense, & Web Development. 
+    My interests include Cyber-Security, Artificial Intelligence, Internet of Things, Defense, & Web Development.
     However, the list of all my passions extends much further.<br><br>
-    My dream job is to obtain a position where I can grow well to help others around me. 
-    If you're interested in something within my skill-set, or would like to discuss something tech. related then, feel free to reach out.<br><br> 
+    My dream job is to obtain a position where I can grow well to help others around me.
+    If you're interested in something within my skill-set, or would like to discuss something tech. related then, feel free to reach out.<br><br>
     I'd love to talk.<br><br>
-    
+
     <i title="Download" class="icon-box-add faded"><strong>  :  </strong></i><a href="/assets/Resume.pdf" class="external"><strong>Resume</strong></a>
     <br>
     <i title="Download" class="icon-box-add faded"><strong>  :  </strong></i><a href="/assets/Personal_Statement.pdf" class="external"><strong>Personal Statement</strong></a>
@@ -26,11 +26,11 @@ basics:
     countryCode: "PK"
   profiles:
     - network: "Github"
-      username: "Shahzaib Khan"
-      url: "https://github.com/HypertextAssassin0273"
-    - network: "LinkedIn"
-      username: "Shahzaib Khan"
-      url: "https://www.linkedin.com/in/shazaibahmed0273"
+      username: "Tami Bar"
+      url: "https://github.com/fire17"
+#    - network: "LinkedIn"
+#      username: "Tami Khan"
+#      url: "https://www.linkedin.com/in/shazaibahmed0273"
 # work:
  # - company: "Circadence"
    # position: "Systems Architecture Engineer"
@@ -77,7 +77,7 @@ languages:
   - language: "C++"
     fluency: "professional working proficiency"
   - language: "Javascript"
-    fluency: "elementary proficiency"  
+    fluency: "elementary proficiency"
   # - language: "Assembly"
    # fluency: "limited-working-proficiency"
 interests:

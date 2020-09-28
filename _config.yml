@@ -27,8 +27,8 @@ description:           >
  An enthusiastic learner & coder who's eager to enhance its coding skills. Currently, undergraduate at NUCES FAST. Interested in Cyber Security & Artificial Intelligence.
 
 # A shorter description for the sidebar.
-tagline:               >
-  Developer - Inquisitive Hacker - Future Scientist
+tagline:                >
+  **Alpha to Omega**
 
 # A list of keywords for your blog
 keywords:              [engineer, developer, hacker, hardware, fastian, karachiite]
@@ -41,7 +41,7 @@ logo:                  /assets/icons/icon.png
 # This should be the same author as first entry in `_data/authors.yml`.
 author:
   name:                <Shahzaib> <Ahmed>
-  email:               <shazaibahmed0000@gmail.com>
+  email:               <tami@akeyo.io>
   # Used by `jekyll-seo-tag`:
   # twitter:             <username>
 

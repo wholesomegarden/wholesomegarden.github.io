@@ -1,12 +1,12 @@
 ---
 cover: true
 image: /assets/img/hydejack-8.png
-title: "Portfolio"
+title: "👉 akeyo 💡"
 hide_description: false
-description: "I can see that you've walked thousands of miles just to reach this website, but that’s just my homepage. Have fun…"
+description: "i/o solutions ◦ ånändâ projects ◦ super env for devs"
 ---
 
-## Hi, I am Shahzaib!!! 🎉
+## Hi, I am Tami!!! 🎉
 
 I created this personal website to keep track of my projects, talk about my experience as an Engineer, and give guidance to anyone striving for some knowledge within my expertise. While, just trying to tame the ocean of endless knowledge & to stand out in the crowd one day (Inshaallah).
 
