@@ -36,11 +36,11 @@ keywords:              [engineer, developer, hacker, hardware, fastian, karachii
 # A (square) logo for your site.
 # If provided, it will be shown at the top of the sidebar.
 # It also used by the `jekyll-seo-tag` plugin.
-logo:                  /assets/icons/icon.png
+logo:                  /assets/img/logo.png
 
 # This should be the same author as first entry in `_data/authors.yml`.
 author:
-  name:                <Shahzaib> <Ahmed>
+  name:                <Tami> <Bar>
   email:               <tami@akeyo.io>
   # Used by `jekyll-seo-tag`:
   # twitter:             <username>
@@ -54,7 +54,7 @@ legal:
 #    href:              /cookies-policy/
 
 # This text will appear in a `<small>` tag in the footer of every page.
-copyright:             © 2020. Shazaib Khan - All rights reserved.
+copyright:             © 2020. Tami Bar - All rights reserved.
 
 # Format of the permalinks
 permalink:              /:categories/:year-:month-:day-:title/
