@@ -1,9 +1,9 @@
 ---
 cover: true
 image: /assets/img/hydejack-8.png
-title: "👉 wholesome garden 💡"
+title: "Wholesome Garden"
 hide_description: false
-description: "creating wholesome solutions until agi comes along"
+description: "Creating wholesome solutions and start up ideas."
 ---
 
 ## Hi, We are wholesome.garden! 🎉
